@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/igetgames/ether-pudding.svg?branch=%40igetgames%2Fdevelop)](https://travis-ci.org/igetgames/ether-pudding)
+
 > _“It's not improbable that a man may receive more solid satisfaction from pudding while he is alive than from praise after he is dead”_
 
 -- Chinese Proverb
