@@ -1,5 +1,18 @@
+sudo: false
+
 language: node_js
 node_js:
-    - '6'
-    - '5'
-    - '4'
+  - '6'
+  - '5'
+  - '4'
+
+env:
+  - CXX=clang-3.6
+
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+      - llvm-toolchain-precise-3.6
+    packages:
+      - clang-3.6
