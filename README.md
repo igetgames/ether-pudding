@@ -1,4 +1,5 @@
 # truffle-artifactor (formerly ether-pudding)
+[![Build Status](https://travis-ci.org/igetgames/ether-pudding.svg?branch=%40igetgames%2Fmaster)](https://travis-ci.org/igetgames/ether-pudding)
 
 This package saves contract artifacts into into Javascript files that can be `require`'d. i.e.,
 
